@@ -1,12 +1,17 @@
-## Alpaca-GlassOff: Image-acceptable Alpaca
+# Alpaca-GlassOff: Image-acceptable Alpaca
+
+<p align="center">
+ <img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/alpaca-glassoff.png" width="700" height="300">
+<p align="center">
 
 Alpaca-GlassOff is a mini image-acceptable Chat AI can run on your own laptop. The chat model is based on [stanford-alpaca](https://github.com/tatsu-lab/stanford_alpaca) and [alpaca-lora](https://github.com/tloen/alpaca-lora).
 
-### Demo
+
+## Demo
 
 https://32b9d44b2fe3fe91b8.gradio.live
 
-### Example outputs
+## Example outputs
 
 ### Recognization 
 
@@ -106,7 +111,7 @@ not good enough, it is pokemon named Exeggutor.
 
 ---
 
-### Usage (`Inference on pre-trained model`)
+## Usage (`Inference on pre-trained model`)
 
 1. Install dependencies
 
@@ -125,10 +130,10 @@ python generate.py \
     --lora_weights 'tloen/alpaca-lora-7b'
 ```
 
-### Implementation
+## Implementation
 At present, an image-caption model is employed to describe an image. Next, the description along with the user's query is combined and sent to a chat model (Alpaca-Lora) for generating the result. This approach is not optimal for building an image-text chat model, but it is cost-effective. The project is undergoing frequent updates and may change its implementation strategy at any time.
 
-### Contribution
+## Contribution
 Welcome to contribute 
 
 
