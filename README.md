@@ -10,7 +10,9 @@ https://32b9d44b2fe3fe91b8.gradio.live
 
 ### Recognization 
 
-**Image**: women bath
+**Image**:
+
+ <img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/woman%20bath.png" width="350" height="200">
 
 **Chat**: what is in the image
 
@@ -18,7 +20,9 @@ https://32b9d44b2fe3fe91b8.gradio.live
 
 ---
 
-**Image**: food
+**Image**: 
+
+<img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/food.jpeg" width="350" height="200">
 
 **Chat**: what I can make for dinner if have food ingredients like these, and tell me how to do it
 
@@ -29,24 +33,33 @@ https://32b9d44b2fe3fe91b8.gradio.live
 
 ### Generation
 
-**Image**: flower woman
+**Image**: 
+
+<img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/woman%20flower.png" width="400" height="200">
 
 **Chat**: write a poem for the image
 
 **Alpaca-GlassOff**: 
 
 A woman with a flower in her hair, 
+
 A beauty that can't be denied. 
+
 The petals of the flower, so bright and fair, 
+
 A symbol of life, a symbol of care. 
 
 The flower in her hair, a symbol of joy, 
+
 A reminder of life's beauty, a reminder of love. 
+
 A reminder of life's beauty, a reminder of love. 
 
 ---
 
-**Image**: pulp fiction
+**Image**: 
+
+<img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/pulp%20fiction.jpeg" width="250" height="400">
 
 **Chat**: Tell me a story based on the given image
 
@@ -54,19 +67,23 @@ A reminder of life's beauty, a reminder of love.
 
 ---
 
-**Image**: antman
+**Image**: 
+
+<img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/antman.jpeg" width="400" height="200">
 
 **chat**: who you think would be the best actor of this character
 
 **Alpaca-LoRA**: Tom Hardy 
 
-The actor of venom
+So here is a Tom Hardy fan wants him to be both Antman and Venom :)
 
 
 #### Fail examples 
 ---
 
-**Image**: iphone1
+**Image**: 
+
+<img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/iphone1.jpg.webp" width="400" height="200">
 
 **Chat**: What is the generation of this iphone?
 
@@ -77,9 +94,11 @@ wrong, it is iPhone1
 ---
 
 
-**Image**: Exeggutor(pokemon)
+**Image**: 
 
-**Chat**: What it is?
+<img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/examples/exeggutor-pokemon.png" width="250" height="300">
+
+**Chat**: What's this?
 
 **Alpaca-GlassOff**: It is a stuffed animal toy with a plant in its mouth 
 
@@ -98,7 +117,7 @@ pip install -r requirements.txt
 2. If bitsandbytes doesn't work, [install it from source.](https://github.com/TimDettmers/bitsandbytes/blob/main/compile_from_source.md) Windows users can follow [these instructions](https://github.com/tloen/alpaca-lora/issues/17).
 
 
-3. run 
+3. Run 
 ```bash
 python generate.py \
     --load_8bit \
