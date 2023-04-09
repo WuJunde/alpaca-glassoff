@@ -1,0 +1,2 @@
+Instruction,Input,Temperature,Top p,Top k,Beams,Max tokens,Output,flag,username,timestamp
+what's wrong with you,,0.1,0.75,40,4,128,,,,2023-03-28 23:19:25.415565
