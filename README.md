@@ -1,4 +1,4 @@
-# Alpaca-GlassOff: Image-acceptable Alpaca
+# Alpaca-GlassOff🦙🙅‍♂️🕶️: Image Acceptable Alpaca
 
 <p align="center">
  <img src="https://github.com/WuJunde/alpaca-glassoff/blob/master/alpaca-glassoff.png" width="700" height="300">
