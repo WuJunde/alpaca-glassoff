@@ -107,7 +107,7 @@ wrong, it is iPhone1
 
 **Alpaca-GlassOff**: It is a stuffed animal toy with a plant in its mouth 
 
-not good enough, it is pokemon named Exeggutor.
+wrong, it is pokemon named Exeggutor.
 
 ---
 
