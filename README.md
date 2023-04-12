@@ -130,8 +130,6 @@ python generate.py \
     --lora_weights 'tloen/alpaca-lora-7b'
 ```
 
-## Implementation
-At present, an image-caption model is employed to describe an image. Next, the description along with the user's query is combined and sent to a chat model (Alpaca-Lora) for generating the result. This approach is not optimal for building an image-text chat model, but it is cost-effective. The project is undergoing frequent updates and may change its implementation strategy at any time.
 
 ## Contribution
 Welcome to contribute 
