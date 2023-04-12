@@ -9,7 +9,7 @@ Alpaca-GlassOff is a mini image-acceptable Chat AI can run on your own laptop. T
 
 ## Demo
 
-https://3ba492a7216c45f25d.gradio.live
+https://76585967ea4dcdca44.gradio.live
 
 ## Example outputs
 
