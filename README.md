@@ -78,7 +78,7 @@ A reminder of life's beauty, a reminder of love.
 
 **chat**: who you think would be the best actor of this character
 
-**Alpaca-LoRA**: Tom Hardy 
+**Alpaca-GlassOff**: Tom Hardy 
 
 So here is a Tom Hardy fan wants him to be both Antman and Venom :)
 
